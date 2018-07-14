@@ -18,7 +18,7 @@
 <resources>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+        <!--TODO Create a custom theme here as the reviewer said-->
     </style>
 
     <style name="Theme.Bacon.Detail">
